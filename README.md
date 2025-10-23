@@ -1,5 +1,8 @@
 # 💫 About Me:
-None
+-- Computer Science Student
+-- Interests in Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Software Development
+-- Part of **10.DEVS-BROSTACK** 
+-- Worked as Contributor in GirlScript Summer of Code 2025
 
 
 # 💻 Tech Stack:
